@@ -1,2 +1,2 @@
-# springboot-multitenancy
+# Springboot-Multitenancy
 Demo project for spring boot multi tenancy
